@@ -1,2 +1,2 @@
 # refactored-html
-This is my first HTML/CSS homework, it is very interesting and not so hard. I need to work on the process of using github more.
+This is my first HTML/CSS homework, it is very interesting and not so hard. I need to work on the process of using github more. [link to the website](https://lorddominic.github.io/refactored-html/)
